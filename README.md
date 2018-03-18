@@ -1,2 +1,2 @@
 # DroneCar
-Raspberry Pi &amp; Arduino automated &amp; RC Car
+Raspberry Pi &amp; Arduino automated RC Car
